@@ -1,0 +1,46 @@
+{
+  "id": 18,
+  "category": "game-offline",
+  "slug": "farming25-economy-workbench",
+  "target": "Farming Simulator 25",
+  "appid": "2300320",
+  "summaryRu": "Проект одиночной лаборатории сельскохозяйственных затрат и ресурсов.",
+  "features": [
+    "Field cost worksheets",
+    "Machine lease comparisons",
+    "Farm profile checkpoints"
+  ],
+  "title": "HarvestLedger — Farming Simulator 25 — Cropland",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    },
+    {
+      "type": "steam-store-presence",
+      "sourceId": "steam-top-sellers",
+      "detail": "Present in the retrieved top-seller-filtered store response; regional/session ordering may vary."
+    }
+  ],
+  "brand": "HarvestLedger",
+  "repositoryName": "harvestledger-farming25-economy-workbench-cropland",
+  "githubTopics": [
+    "farming-simulator-25",
+    "field-planning",
+    "farm-budget",
+    "machine-costs",
+    "game-planning",
+    "local-scenarios",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "cropland"
+}
